@@ -1,0 +1,13 @@
+// Input values
+import java.util.Scanner;Scanner sc = new Scanner(System.in);
+sc.nextInt();sc.nextFloat();sc.nextDouble();sc.nextLine();sc.nextLine().charAt(0);
+
+// Convert from String to required number
+float num = Float.parseFloat(number);Integer.parseInt(String);Boolean.parseBoolean("False");BigInteger reallyBig = new BigInteger(bigNumber);
+BigDecimal reallyBig = new BigDecimal(bigNumber);long num = Long.parseLong(number);double num = Double.parseDouble(double);
+
+// Random
+import java.util.Random;Random rand = new Random();
+
+// Wrapper class
+//Implementations of various things
